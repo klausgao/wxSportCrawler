@@ -61,4 +61,4 @@ Demo截图
 
 具体请联系我，QQ 14707685，注明“微信运动数据”。
 
-请关注我这个项目，https://github.com/klausgao/wxSportCrawler/
+请关注这个项目，https://github.com/klausgao/wxSportCrawler/
