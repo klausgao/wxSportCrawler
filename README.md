@@ -3,7 +3,9 @@
 
 关键字：微信运动、微信步数、运动步数、wechat sport、wechat step、微信硬件
 
-Demo：http://node.mzdol.com/wxSportDemo/
+Demo：
+1、http://wxsportdemo.grplpl.com/
+2、http://node.mzdol.com/wxSportDemo/
 
 ### 功能描述
 **1、抓取个人的微信运动数据，形成实时数据、日数据、累计数据和其他按照需求进行统计的数据**
