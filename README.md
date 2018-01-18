@@ -51,7 +51,7 @@ http://wxsportdemo.grplpl.com/
 
 
 ### 微信扫码体验
-
+![](http://www.grplpl.com/adimages/7.jpg)
 
 
 ### 部分截图
