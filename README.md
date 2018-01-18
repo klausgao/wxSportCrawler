@@ -56,3 +56,8 @@ http://wxsportdemo.grplpl.com/
 
 ### 部分截图
 ![](http://www.grplpl.com/adimages/1.gif)
+![](http://www.grplpl.com/adimages/2.gif)
+![](http://www.grplpl.com/adimages/3.gif)
+![](http://www.grplpl.com/adimages/4.gif)
+![](http://www.grplpl.com/adimages/5.gif)
+![](http://www.grplpl.com/adimages/6.gif)
