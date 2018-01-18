@@ -48,3 +48,11 @@ http://wxsportdemo.grplpl.com/
 具体请联系我，QQ 14707685，注明“微信运动数据”。
 
 请关注这个项目，https://github.com/klausgao/wxSportCrawler/
+
+
+### 微信扫码体验
+
+
+
+### 部分截图
+![](http://www.grplpl.com/adimages/1.gif)
